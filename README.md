@@ -6,7 +6,7 @@ This notebook demonstrates a prototype that:
 - Stores it in Pinecone
 - Answers questions via LangChain
 
-The purpose of your project is to create an AI-powered system that can answer natural language questions about the contents of any uploaded PDF document. Here's what each component does and why it matters:
+The purpose of this project is to create an AI-powered system that can answer natural language questions about the contents of any uploaded PDF document. Here's what each component does and why it matters:
 
 📌 Project Purpose Summary
 Goal:
